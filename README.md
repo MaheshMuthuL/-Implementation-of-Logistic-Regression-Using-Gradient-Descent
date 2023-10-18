@@ -116,15 +116,138 @@ Developed By:L.Mahesh Muthu
 ```
 
 ## Output:
+
+
+
+
+ 1.Array Value of x
+
+
+
+ 
 ![Screenshot (59)](https://github.com/MaheshMuthuL/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135570619/914d94f2-effb-4172-bf91-d3881be0129c)
+
+
+
+
+
+ 2.Array Value of y
+
+
+
+
+
+ 
 ![Screenshot (60)](https://github.com/MaheshMuthuL/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135570619/4c3a74a6-05e4-4c29-82bf-b3f5fd515c01)
+
+
+
+
+
+ 3.Exam 1-Score Graph
+
+
+
+
+
+ 
 ![Screenshot (61)](https://github.com/MaheshMuthuL/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135570619/0d784217-b371-43c9-8359-05956190c002)
+
+
+
+
+
+
+
+
+ 4.Sigmoid function graph
+
+
+
+
+ 
 ![Screenshot (62)](https://github.com/MaheshMuthuL/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135570619/dcf2473b-962f-44fb-bf1c-4541230186de)
+
+
+
+
+
+
+ 5.x_train_grad value
+
+
+
+
+
+ 
 ![Screenshot (63)](https://github.com/MaheshMuthuL/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135570619/a72cadd7-50ca-4355-8dcd-85d74038fa49)
+
+
+
+
+
+
+
+ 6.y_train_grad value
+
+
+
+
+
+
+ 
 ![Screenshot (64)](https://github.com/MaheshMuthuL/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135570619/86158786-18da-4d81-8b8e-12f859b7a116)
+
+
+
+
+
+
+
+7.Print res.x
+
+
+
+
 ![Screenshot (65)](https://github.com/MaheshMuthuL/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135570619/00f12e94-2fd7-49e2-bfb7-d121521f4c3e)
+
+
+
+
+8.Decision boundary-graph for exam score
+
+
+
+
+
 ![Screenshot (66)](https://github.com/MaheshMuthuL/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135570619/c5b2fe28-701b-44fc-a953-f1fa5e6723c5)
+
+
+
+
+
+9.Probability value
+
+
+
+
+
+
 ![Screenshot (67)](https://github.com/MaheshMuthuL/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135570619/dd605d25-c387-4606-990f-88968dba59b7)
+
+
+
+
+
+
+10.Prediction value of mean
+
+
+
+
+
+
+
 ![Screenshot (68)](https://github.com/MaheshMuthuL/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/135570619/c78afc2e-f098-4e59-b95a-8dd0a776a3bc)
 
 
